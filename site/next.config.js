@@ -2,8 +2,8 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Kasm ArkStack',
+    description: 'The official store for ArkStack supported workspaces.',
     icon: '/img/logo.svg',
     listUrl: 'https://sowwai-kok.github.io/kasm-ecr',
     contactUrl: 'https://kasmweb.com/support',
